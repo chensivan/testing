@@ -11,7 +11,7 @@ var io = require('socket.io')(http);
 var request = require('request');
 var jsonfile = require('jsonfile');
 var _ = require('underscore')
-
+var ipAddress = getIPAddress();
 var UPLOAD_FOLDER = 'results';
 var STATIC_FOLDER = 'crowdpage';
 
@@ -20,7 +20,8 @@ var FULL_UPLOAD_FOLDER = path.join(__dirname, UPLOAD_FOLDER);
 app.use(express.static(path.join(__dirname, STATIC_FOLDER)));
 
 http.listen(4000, function(){
-  console.log('listening on *:4000  ......');
+  console.log('listening on '+ipAddress+':4000  ......');
+
 });
 
 app.get('/', function(req, res){
@@ -167,4 +168,22 @@ function stat(path) {
 			else { resolve(contents); }
 		});
 	});
+}
+
+
+function getIPAddress() {
+	var os = require('os');
+
+	var interfaces = os.networkInterfaces();
+	var addresses = [];
+	for (var k in interfaces) {
+	    for (var k2 in interfaces[k]) {
+				var address = interfaces[k][k2];
+					if (address.family === 'IPv4' && !address.internal) {
+					    addresses.push(address.address);
+				}
+	    }
+	}
+
+	return addresses[0];
 }
