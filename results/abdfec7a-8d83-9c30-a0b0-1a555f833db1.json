@@ -1,17 +1,9 @@
 {
-  "queryID": "8e788c79-b4c8-5d64-db70-2cb8cfe4c52d",
+  "queryID": "abdfec7a-8d83-9c30-a0b0-1a555f833db1",
   "answer": {
     "1": {
-      "startTime": [
-        1517203578534,
-        1517203582511,
-        1517203585411
-      ],
-      "leaveTime": [
-        1517203580178,
-        1517203583678,
-        1517203587511
-      ],
+      "startTime": [],
+      "leaveTime": [],
       "isSelected": false
     },
     "2": {
@@ -40,8 +32,12 @@
       "isSelected": false
     },
     "7": {
-      "startTime": [],
-      "leaveTime": [],
+      "startTime": [
+        1517207312711
+      ],
+      "leaveTime": [
+        1517207313189
+      ],
       "isSelected": false
     },
     "8": {
@@ -60,9 +56,13 @@
       "isSelected": false
     },
     "11": {
-      "startTime": [],
-      "leaveTime": [],
-      "isSelected": false
+      "startTime": [
+        1517207321558
+      ],
+      "leaveTime": [
+        1517207321989
+      ],
+      "isSelected": true
     },
     "12": {
       "startTime": [],
@@ -100,8 +100,12 @@
       "isSelected": false
     },
     "19": {
-      "startTime": [],
-      "leaveTime": [],
+      "startTime": [
+        1517207313622
+      ],
+      "leaveTime": [
+        1517207314856
+      ],
       "isSelected": false
     },
     "20": {
@@ -120,9 +124,13 @@
       "isSelected": false
     },
     "23": {
-      "startTime": [],
-      "leaveTime": [],
-      "isSelected": false
+      "startTime": [
+        1517207318824
+      ],
+      "leaveTime": [
+        1517207320657
+      ],
+      "isSelected": true
     },
     "24": {
       "startTime": [],
@@ -135,9 +143,13 @@
       "isSelected": false
     },
     "26": {
-      "startTime": [],
-      "leaveTime": [],
-      "isSelected": false
+      "startTime": [
+        1517207321022
+      ],
+      "leaveTime": [
+        1517207321522
+      ],
+      "isSelected": true
     },
     "27": {
       "startTime": [],
@@ -150,16 +162,107 @@
       "isSelected": false
     },
     "29": {
-      "startTime": [],
-      "leaveTime": [],
-      "isSelected": false
+      "startTime": [
+        1517207314857
+      ],
+      "leaveTime": [
+        1517207315422
+      ],
+      "isSelected": true
     },
     "30": {
       "startTime": [],
       "leaveTime": [],
       "isSelected": false
+    },
+    "31": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "32": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "33": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "34": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "35": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "36": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "37": {
+      "startTime": [
+        1517207317221
+      ],
+      "leaveTime": [
+        1517207318823
+      ],
+      "isSelected": false
+    },
+    "38": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "39": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "40": {
+      "startTime": [
+        1517207316324
+      ],
+      "leaveTime": [
+        1517207317155
+      ],
+      "isSelected": true
+    },
+    "41": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "42": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "43": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "44": {
+      "startTime": [
+        1517207315490
+      ],
+      "leaveTime": [
+        1517207316323
+      ],
+      "isSelected": true
+    },
+    "45": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
     }
   },
-  "startingTime": 1517203567623,
-  "submittedTime": 1517203588949
+  "startingTime": 1517207307287,
+  "submittedTime": 1517207322679
 }
