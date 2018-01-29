@@ -13,3 +13,7 @@ video {
   border-style: '';
   border-width: 0;
 }
+
+p {
+  font-size: 20px;
+}

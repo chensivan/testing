@@ -31,15 +31,44 @@
          <div ng-hide = 'thankyouPage' class="container-fluid text-center">
             <div class="row content">
                <div class="col-sm-10 text-left col-sm-offset-1">
-                  <h1>Welcome</h1>
+                  <h1>Your task</h1>
                   <hr>
-                  <h4>Your task</h4>
-                  <p>Mouse over: Play the video <span style="color:red"><i class="glyphicon glyphicon-remove-sign"></i></span>; Single Click: Similar to any reference video <span style="color:lime"><i class="glyphicon glyphicon-check"></i></span>; Double Click: Not similar but interesting <span style="color:lime"><i class="glyphicon glyphicon-check"></i></span></p>
-                  <div ng-repeat='vid in videosSet'>
-                     <div class="col-xs-12 col-sm-6 col-md-4">
+                  <p><strong>Purpose </strong>To better understand how users feel about Snapchat videos, we want to improve the quality of them by collecting your opinions. In this task, you will be asking to watch a few dozens of short videos and click those that you like.
+                    Please follow the instructions and try the examples below.</p>
+                  <p><strong>Instruction </strong>Mouse over each video to play them and mouse leave to pause them. Please make sure you have your speaker on. If you like the video, select the video by clicking it. You will see a blue border around the videos that you select. You can always unselect the video by clicking it again which will remove the blue border.
+                    Feel free to try the following two examples out and click 'Start the task' when you feel you are ready.</p>
+                  <p><strong>How to decide </strong>You don't have to watch the video to the end, but please watch each of them at least a little bit to get an idea of what it is about. Be aware that the videos are playign in loops.
+                   Click the 'Submit' button at the end of the page and copy the code on the Thank you page to Mechanical Turk.</p>
+                  <p>
+                  </br></br>
+                  <!-- <p>Mouse over: Play the video
+                    <span style="color:red"><i class="glyphicon glyphicon-remove-sign"></i></span>;
+                    Single Click: Similar to any reference video
+                    <span style="color:lime"><i class="glyphicon glyphicon-check"></i></span>;
+                    Double Click: Not similar but interesting <span style="color:lime"><i class="glyphicon glyphicon-check"></i></span>
+                  </p> -->
+                  <div ng-show = '!startTheTask' >
+                    <h4>Example</h4>
+                    <div class="col-xs-12 col-sm-6 col-md-3">
+                      <video id='-1' ng-mouseenter='startPlayer(-1)' ng-mouseleave="pausePlayer(-1)" ng-click='select(-1)' style='height: 428px;' loop>
+                        <source src="/example/47.mp4" type="video/mp4" />
+                         <!-- <source src="https://giant.gfycat.com/VerifiableTerrificHind.mp4" type="video/mp4" /> -->
+                      </video>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3">
+                      <video id="-2" ng-mouseenter='startPlayer(-2)' ng-mouseleave="pausePlayer(-2)" ng-click='select(-2)' style='height: 428px;' loop>
+                        <source src="/example/46.mp4" type="video/mp4" />
+                         <!-- <source src="https://giant.gfycat.com/VerifiableTerrificHind.mp4" type="video/mp4" /> -->
+                      </video>
+                    </div>
+                    <button class='btn btn-success btn-lg' ng-click='startTask()'>Start the task</button>
+                  </div>
+
+                  <div ng-show = 'startTheTask' ng-repeat='vid in videosSet'>
+                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <label for="checkbox1">
-                           <video id="{{vid}}" ng-mouseenter='startPlayer(vid)' ng-mouseleave="pausePlayer(vid)" ng-click='select(vid)' style='height: 500px; width: 240px' loop>
-                             <source src="http://um-yanchen.com/img/test.mov" type="video/mp4" />
+                           <video id="{{vid}}" ng-mouseenter='startPlayer(vid)' ng-mouseleave="pausePlayer(vid)" ng-click='select(vid)' style='height: 428px;' loop>
+                             <source ng-src="/wild/{{vid}}.mp4" type="video/mp4" />
                               <!-- <source src="https://giant.gfycat.com/VerifiableTerrificHind.mp4" type="video/mp4" /> -->
                            </video>
                         </label>
@@ -47,7 +76,7 @@
                   </div>
                </div>
             </div>
-            <button class='btn btn-success btn-lg' ng-click='submit()' style='margin-bottom: 20px'>Submit</button>
+            <button ng-show = 'startTheTask'  class='btn btn-success btn-lg' ng-click='submit()' style='margin-bottom: 20px'>Submit</button>
          </div>
          <div ng-show = 'thankyouPage'>
            <div class="col-sm-10 text-left col-sm-offset-1">
