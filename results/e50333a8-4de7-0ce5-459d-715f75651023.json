@@ -1,0 +1,177 @@
+{
+  "queryID": "e50333a8-4de7-0ce5-459d-715f75651023",
+  "answer": {
+    "1": {
+      "startTime": [
+        1517185608571
+      ],
+      "leaveTime": [
+        1517185610371
+      ],
+      "isSelected": true
+    },
+    "2": {
+      "startTime": [
+        1517185603406
+      ],
+      "leaveTime": [
+        1517185603505
+      ],
+      "isSelected": false
+    },
+    "3": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "4": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "5": {
+      "startTime": [
+        1517185611037,
+        1517185612971
+      ],
+      "leaveTime": [
+        1517185612003,
+        1517185613005
+      ],
+      "isSelected": true
+    },
+    "6": {
+      "startTime": [
+        1517185603505,
+        1517185606937
+      ],
+      "leaveTime": [
+        1517185606570,
+        1517185608138
+      ],
+      "isSelected": false
+    },
+    "7": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "8": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "9": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "10": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "11": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "12": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "13": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "14": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "15": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "16": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "17": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "18": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "19": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "20": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "21": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "22": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "23": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "24": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "25": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "26": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "27": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "28": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "29": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "30": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    }
+  },
+  "startingTime": 1517185602767,
+  "submittedTime": 1517185613832
+}
