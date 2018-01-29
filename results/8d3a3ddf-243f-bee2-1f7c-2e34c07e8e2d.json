@@ -1,0 +1,249 @@
+{
+  "queryID": "8d3a3ddf-243f-bee2-1f7c-2e34c07e8e2d",
+  "answer": {
+    "answer": {
+      "1": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "2": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "3": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "4": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "5": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "6": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "7": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "8": {
+        "startTime": [
+          1517208360350,
+          1517208361382
+        ],
+        "leaveTime": [
+          1517208360549,
+          1517208361816
+        ],
+        "isSelected": true
+      },
+      "9": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "10": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "11": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "12": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "13": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "14": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "15": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "16": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "17": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "18": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "19": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "20": {
+        "startTime": [
+          1517208364484
+        ],
+        "leaveTime": [
+          1517208365049
+        ],
+        "isSelected": false
+      },
+      "21": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "22": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "23": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "24": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "25": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "26": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "27": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "28": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "29": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "30": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "31": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "32": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "33": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "34": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "35": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "36": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "37": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "38": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "39": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "40": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "41": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "42": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "43": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "44": {
+        "startTime": [],
+        "leaveTime": [],
+        "isSelected": false
+      },
+      "45": {
+        "startTime": [
+          1517208357837
+        ],
+        "leaveTime": [
+          1517208360349
+        ],
+        "isSelected": true
+      }
+    },
+    "startTime": 1517208357778
+  },
+  "startingTime": 1517208355869,
+  "submittedTime": 1517208369277
+}

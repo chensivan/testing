@@ -1,0 +1,295 @@
+{
+  "queryID": "c48463b1-9bf1-8cd5-7fa9-d17fd7ee2087",
+  "answer": {
+    "1": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "2": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "3": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "4": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "5": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "6": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "7": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "8": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "9": {
+      "startTime": [
+        1517208605551
+      ],
+      "leaveTime": [
+        1517208606316
+      ],
+      "isSelected": false
+    },
+    "10": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "11": {
+      "startTime": [
+        1517208614983
+      ],
+      "leaveTime": [
+        1517208615048
+      ],
+      "isSelected": false
+    },
+    "12": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "13": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "14": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "15": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "16": {
+      "startTime": [
+        1517208600435,
+        1517208602148
+      ],
+      "leaveTime": [
+        1517208601048,
+        1517208602215
+      ],
+      "isSelected": false
+    },
+    "17": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "18": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "19": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "20": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "21": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "22": {
+      "startTime": [
+        1517208606352
+      ],
+      "leaveTime": [
+        1517208607349
+      ],
+      "isSelected": false
+    },
+    "23": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "24": {
+      "startTime": [
+        1517208607350
+      ],
+      "leaveTime": [
+        1517208609052
+      ],
+      "isSelected": false
+    },
+    "25": {
+      "startTime": [
+        1517208625117
+      ],
+      "leaveTime": [
+        1517208625315
+      ],
+      "isSelected": false
+    },
+    "26": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "27": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "28": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "29": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "30": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "31": {
+      "startTime": [
+        1517208609650,
+        1517208610716
+      ],
+      "leaveTime": [
+        1517208610217,
+        1517208611819
+      ],
+      "isSelected": false
+    },
+    "32": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "33": {
+      "startTime": [
+        1517208624148
+      ],
+      "leaveTime": [
+        1517208625116
+      ],
+      "isSelected": true
+    },
+    "34": {
+      "startTime": [
+        1517208612985
+      ],
+      "leaveTime": [
+        1517208614983
+      ],
+      "isSelected": true
+    },
+    "35": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "36": {
+      "startTime": [
+        1517208611820
+      ],
+      "leaveTime": [
+        1517208612752
+      ],
+      "isSelected": false
+    },
+    "37": {
+      "startTime": [
+        1517208612753
+      ],
+      "leaveTime": [
+        1517208612949
+      ],
+      "isSelected": false
+    },
+    "38": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "39": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "40": {
+      "startTime": [
+        1517208609053,
+        1517208623781
+      ],
+      "leaveTime": [
+        1517208609649,
+        1517208623847
+      ],
+      "isSelected": false
+    },
+    "41": {
+      "startTime": [
+        1517208610218
+      ],
+      "leaveTime": [
+        1517208610715
+      ],
+      "isSelected": false
+    },
+    "42": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "43": {
+      "startTime": [
+        1517208602251
+      ],
+      "leaveTime": [
+        1517208605550
+      ],
+      "isSelected": true
+    },
+    "44": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    },
+    "45": {
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
+    }
+  },
+  "enterInstructionPageTime": 1517208596926,
+  "enterTaskTime": 1517208600366,
+  "submittedTime": 1517208626308
+}
