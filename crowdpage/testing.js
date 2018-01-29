@@ -43,11 +43,16 @@ app.controller('myTestController',[ '$scope', '$http', function($scope, $http) {
    }
  }
  $scope.startTask = function() {
+   $scope.timeToStartTheTask = (new Date()).getTime()
    $scope.startTheTask = !$scope.startTheTask
  }
 
  $scope.submit = function(){
-   socket.emit('results', $scope.answerObj);
+   var data = {
+     answer: $scope.answerObj,
+     startTime: $scope.timeToStartTheTask
+   }
+   socket.emit('results', data);
    $scope.thankyouPage = !$scope.thankyouPage
 
  }

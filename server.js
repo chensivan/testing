@@ -44,8 +44,9 @@ io.on('connection', function(socket) {
     var filename = path.join(FULL_UPLOAD_FOLDER, queryID +'.json');
     var obj = {
       queryID: queryID,
-      answer: data,
-      startingTime: startingTime,
+      answer: data.answer,
+      enterInstructionPageTime: startingTime,
+      enterTaskTime: data.startTime,
       submittedTime: (new Date()).getTime()
     }
     writeJSON(filename, obj)

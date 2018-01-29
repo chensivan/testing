@@ -1,5 +1,5 @@
 {
-  "queryID": "abdfec7a-8d83-9c30-a0b0-1a555f833db1",
+  "queryID": "dfc539ac-6e8f-8ac0-c9d2-b2e237176fd5",
   "answer": {
     "1": {
       "startTime": [],
@@ -32,12 +32,8 @@
       "isSelected": false
     },
     "7": {
-      "startTime": [
-        1517207312711
-      ],
-      "leaveTime": [
-        1517207313189
-      ],
+      "startTime": [],
+      "leaveTime": [],
       "isSelected": false
     },
     "8": {
@@ -56,13 +52,9 @@
       "isSelected": false
     },
     "11": {
-      "startTime": [
-        1517207321558
-      ],
-      "leaveTime": [
-        1517207321989
-      ],
-      "isSelected": true
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
     },
     "12": {
       "startTime": [],
@@ -100,12 +92,8 @@
       "isSelected": false
     },
     "19": {
-      "startTime": [
-        1517207313622
-      ],
-      "leaveTime": [
-        1517207314856
-      ],
+      "startTime": [],
+      "leaveTime": [],
       "isSelected": false
     },
     "20": {
@@ -124,13 +112,9 @@
       "isSelected": false
     },
     "23": {
-      "startTime": [
-        1517207318824
-      ],
-      "leaveTime": [
-        1517207320657
-      ],
-      "isSelected": true
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
     },
     "24": {
       "startTime": [],
@@ -143,13 +127,9 @@
       "isSelected": false
     },
     "26": {
-      "startTime": [
-        1517207321022
-      ],
-      "leaveTime": [
-        1517207321522
-      ],
-      "isSelected": true
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
     },
     "27": {
       "startTime": [],
@@ -162,13 +142,9 @@
       "isSelected": false
     },
     "29": {
-      "startTime": [
-        1517207314857
-      ],
-      "leaveTime": [
-        1517207315422
-      ],
-      "isSelected": true
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
     },
     "30": {
       "startTime": [],
@@ -186,14 +162,22 @@
       "isSelected": false
     },
     "33": {
-      "startTime": [],
-      "leaveTime": [],
-      "isSelected": false
+      "startTime": [
+        1517208272816
+      ],
+      "leaveTime": [
+        1517208277217
+      ],
+      "isSelected": true
     },
     "34": {
-      "startTime": [],
-      "leaveTime": [],
-      "isSelected": false
+      "startTime": [
+        1517208267800
+      ],
+      "leaveTime": [
+        1517208270883
+      ],
+      "isSelected": true
     },
     "35": {
       "startTime": [],
@@ -206,12 +190,8 @@
       "isSelected": false
     },
     "37": {
-      "startTime": [
-        1517207317221
-      ],
-      "leaveTime": [
-        1517207318823
-      ],
+      "startTime": [],
+      "leaveTime": [],
       "isSelected": false
     },
     "38": {
@@ -225,13 +205,9 @@
       "isSelected": false
     },
     "40": {
-      "startTime": [
-        1517207316324
-      ],
-      "leaveTime": [
-        1517207317155
-      ],
-      "isSelected": true
+      "startTime": [],
+      "leaveTime": [],
+      "isSelected": false
     },
     "41": {
       "startTime": [],
@@ -244,18 +220,18 @@
       "isSelected": false
     },
     "43": {
+      "startTime": [
+        1517208279650
+      ],
+      "leaveTime": [
+        1517208283216
+      ],
+      "isSelected": true
+    },
+    "44": {
       "startTime": [],
       "leaveTime": [],
       "isSelected": false
-    },
-    "44": {
-      "startTime": [
-        1517207315490
-      ],
-      "leaveTime": [
-        1517207316323
-      ],
-      "isSelected": true
     },
     "45": {
       "startTime": [],
@@ -263,6 +239,7 @@
       "isSelected": false
     }
   },
-  "startingTime": 1517207307287,
-  "submittedTime": 1517207322679
+  "enterInstructionPageTime": 1517208265218,
+  "enterTaskTime": 1517208267755,
+  "submittedTime": 1517208285338
 }
